@@ -46,7 +46,7 @@
 #define LOG_CF_SERVER_PORT 'P'
 
 /* Line log common separators **/
-#define LOG_CF_STAR_SEPARATOR "[**]"
+#define LOG_CF_STAR_SEPARATOR " [**] "
 #define LOG_CF_SPACE_SEPARATOR " "
 #define LOG_CF_UNKNOWN_VALUE "-"
 
